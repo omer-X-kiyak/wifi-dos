@@ -42,7 +42,7 @@ def check_for_essid(essid, lst):
 # Basic user interface header
 print(r"""               
  /\  /\
- \/  \/                          ________      _ __  
+ \/  \/                           ________      _ __  
   ___         /\     /\           | |___|     | |-- \                                                                           
   __ \       /  \   /  \          | |         | |__\ \                                                                             
  /  \ |     /  /\ \/ /\ \         | |____     | |____/                                                                      
@@ -50,11 +50,11 @@ print(r"""
  \__/ |   /  /    \/    \ \       | |         | |\ \                                                   
       |  /  /            \ \      | |____     | | \ \
 ______/ /__/              \_\     |_|____|    |_|  \ \           """)
-print("\n****************************************************************")
-print("\n* Copyright of Ömer KIYAK, 2022                              *")
-print("\n* https://www.instagram.com/omer_x_kiyak/                   *")
-print("\n*  https://github.com/omer-X-kiyak/                         *")
-print("\n****************************************************************")
+print("\n***************************************************************** *")
+print("\n* Copyright of Ömer KIYAK, 2022                                 * *")
+print("\n* https://www.instagram.com/omer_x_kiyak/                       * *")
+print("\n*  https://github.com/omer-X-kiyak/                             * *")
+print("\n***************************************************************** *")
 
 
 # If the user doesn't run the program with super user privileges, don't allow them to continue.
